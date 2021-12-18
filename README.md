@@ -1,2 +1,5 @@
 # UnityVoxelEngine
-A small voxel engine with use with Unity, used for creating "Bloxels." (WIP)
+Carcass' cheap version of the Minecraft renderer.
+
+You may use this under the Apache2.0 license.
+have fun.
