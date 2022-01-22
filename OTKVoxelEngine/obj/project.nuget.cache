@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xh+XYNCdSBwgQBj4lm1hxwReBM6f25L8CRe2ad5qUZEnvD0bzQglzyFeOdHxXvu2V2NhsBz9ZvODiQZ92yOrXg==",
+  "dgSpecHash": "Hy+Ga1uCewf41K6gRU8MbY5MczXLw1SwmjloHZ2aIHeZOzrJhlu0EDWkunRrshE/ydHf4+NqOM41NOv10dlV8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\bitte\\source\\repos\\OTKVoxelEngine\\OTKVoxelEngine\\OTKVoxelEngine.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bitte\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\opentk\\4.6.7\\opentk.4.6.7.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\opentk.compute\\4.6.7\\opentk.compute.4.6.7.nupkg.sha512",
@@ -16,6 +17,7 @@
     "C:\\Users\\bitte\\.nuget\\packages\\opentk.windowing.common\\4.6.7\\opentk.windowing.common.4.6.7.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\opentk.windowing.desktop\\4.6.7\\opentk.windowing.desktop.4.6.7.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.7\\opentk.windowing.graphicslibraryframework.4.6.7.nupkg.sha512",
+    "C:\\Users\\bitte\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\bitte\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []

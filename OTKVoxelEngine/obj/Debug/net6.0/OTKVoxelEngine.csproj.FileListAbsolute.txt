@@ -1,0 +1,12 @@
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\bin\Debug\net6.0\OTKVoxelEngine.deps.json
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\bin\Debug\net6.0\OTKVoxelEngine.dll
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\bin\Debug\net6.0\ref\OTKVoxelEngine.dll
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\bin\Debug\net6.0\OTKVoxelEngine.pdb
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.AssemblyInfoInputs.cache
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.AssemblyInfo.cs
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.csproj.CoreCompileInputs.cache
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.dll
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\ref\OTKVoxelEngine.dll
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.pdb
+C:\Users\bitte\source\repos\OTKVoxelEngine\OTKVoxelEngine\obj\Debug\net6.0\OTKVoxelEngine.csproj.AssemblyReference.cache
